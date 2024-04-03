@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/JAPRIN-PORTFOLIO/static/css/main.6ec52754.css",
+    "main.js": "/JAPRIN-PORTFOLIO/static/js/main.e559a65f.js",
+    "static/js/453.ace21015.chunk.js": "/JAPRIN-PORTFOLIO/static/js/453.ace21015.chunk.js",
+    "static/media/japr.jpeg": "/JAPRIN-PORTFOLIO/static/media/japr.82130272ccf108ed542d.jpeg",
+    "static/media/jap.jpeg": "/JAPRIN-PORTFOLIO/static/media/jap.d7dabd5654c73d470c7e.jpeg",
+    "static/media/leaf.png": "/JAPRIN-PORTFOLIO/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/JAPRIN-PORTFOLIO/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/JAPRIN-PORTFOLIO/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/JAPRIN-PORTFOLIO/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/JAPRIN-PORTFOLIO/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/ja.pdf": "/JAPRIN-PORTFOLIO/static/media/ja.f4782399353550f4c05e.pdf",
+    "static/media/about.png": "/JAPRIN-PORTFOLIO/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/JAPRIN-PORTFOLIO/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/JAPRIN-PORTFOLIO/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/jp.jpeg": "/JAPRIN-PORTFOLIO/static/media/jp.62203a3a8fe5e775529c.jpeg",
+    "static/media/pre.svg": "/JAPRIN-PORTFOLIO/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/JAPRIN-PORTFOLIO/index.html",
+    "main.6ec52754.css.map": "/JAPRIN-PORTFOLIO/static/css/main.6ec52754.css.map",
+    "main.e559a65f.js.map": "/JAPRIN-PORTFOLIO/static/js/main.e559a65f.js.map",
+    "453.ace21015.chunk.js.map": "/JAPRIN-PORTFOLIO/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec52754.css",
+    "static/js/main.e559a65f.js"
+  ]
+}
